@@ -1,0 +1,29 @@
+﻿body { background-color: burlywood;
+       text-align:center;
+       margin-left:auto;
+       margin-right:auto;
+       padding:15%;
+}
+
+ul{
+    list-style: none;
+    font-style: italic;
+}
+
+div{
+    background-color:antiquewhite;
+    border:dotted;
+    font-family: Tahoma;
+}
+
+h1{
+    border-bottom: dotted;
+    font-style: italic;
+    font-weight: 900;
+    font-size:xx-large;
+}
+
+li::first-letter {
+    font-size: x-large;
+}
+
